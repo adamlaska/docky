@@ -39,7 +39,7 @@
     "react-docgen": "^2.15.0"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.1",
+    "babel-eslint": "^10.1.0",
     "browser-sync": "^2.18.8",
     "eslint": "^3.18.0",
     "eslint-config-airbnb": "^14.1.0",
