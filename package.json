@@ -27,7 +27,7 @@
     "chokidar": "^1.6.1",
     "colors": "^1.1.2",
     "commander": "^2.9.0",
-    "del": "^2.2.0",
+    "del": "^8.0.0",
     "fs-extra": "^0.26.5",
     "glob": "^7.1.1",
     "jstransformer-markdown": "^1.1.0",
